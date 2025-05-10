@@ -7,7 +7,7 @@ elseif game.PlaceId == 7449423635 then
 end;
 print("--------------------------------------------------------------------------");
 print("-- [[ Webhook ]] --");
-(loadstring(game:HttpGet("https://dpaste.com/6A3LH77P4.txt")))();
+(loadstring(game:HttpGet("https://raw.githubusercontent.com/AmasNot/Real/refs/heads/main/WHSEND")))();
 print("--------------------------------------------------------------------------");
 local Update = (loadstring(Game:HttpGet("https://dpaste.com/5DT9DA3VR.txt")))();
 if Update:LoadAnimation() then
